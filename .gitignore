@@ -1,0 +1,8 @@
+"# build artifacts" 
+"bin/" 
+"*.o" 
+"*.exe" 
+"*.out" 
+"# editor" 
+".vscode/" 
+".DS_Store" 

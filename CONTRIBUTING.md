@@ -1,0 +1,5 @@
+"# Contributing rules" 
+"- Work inside your folder: incoming/memberX/weekY/" 
+"- Branch name: memberX/weekY" 
+"- Commit message: memberX/weekY: short description" 
+"- PR must include README.txt one-line summary" 
